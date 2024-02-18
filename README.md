@@ -1,2 +1,2 @@
 # Natours
-Web project with Node Js ans mongoDB
+Web project with Node Js & mongoDB
